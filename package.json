@@ -1,0 +1,16 @@
+{
+  "name": "explore-semantic-release",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run src/index.js",
+    "release": "semantic-release"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "semantic-release": "^17.4.7"
+  }
+}
